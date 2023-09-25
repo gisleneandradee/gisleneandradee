@@ -1,6 +1,6 @@
 <h1>Gislene Andrade</h1>
 
-<img src="https://github.com/gisleneandradee/gisleneandradee/assets/143434256/24e0e504-d150-4a47-827e-94de48424872" width="300" height="300" middle=100>
+<img src="https://github.com/gisleneandradee/gisleneandradee/assets/143434256/24e0e504-d150-4a47-827e-94de48424872" align="right" width="300">
 
 <h2>Seja bem-vindo(a) ao meu perfil no GitHub! &#x1F44B!</h2>
 <p>Tenho 22 anos, moro em São Paulo, SP. <br>

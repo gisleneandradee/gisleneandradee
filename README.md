@@ -1,11 +1,7 @@
-<h1>Gislene Andrade</h1>
-
 <img src="https://github.com/gisleneandradee/gisleneandradee/assets/143434256/24e0e504-d150-4a47-827e-94de48424872" align="right" width="300">
 
-<h2>Seja bem-vindo(a) ao meu perfil no GitHub! &#x1F44B!</h2>
-<p>Tenho 22 anos, moro em São Paulo, SP. <br>
-Estou em migração de carreira, em busca da primeira oportunidade como dev.<br>
-Compartilho meus projetinhos aqui, espero que gostem! &#x1F970</p>
+<h1>Olá, mundo! Bem-vindo(a) ao meu perfil no GitHub! &#x1F44B!</h1>
+<p>Tenho 22 anos, moro em São Paulo, SP e sou acadêmica de Análise e Desenvolvimento de Sistemas na USTJ. Estou em migração de carreira, em busca da primeira oportunidade como dev. Compartilho meus projetinhos aqui, espero que gostem! &#x1F970</p>
 
 <h2>Tecnologias e Ferramentas</h2>
 <div>

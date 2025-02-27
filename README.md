@@ -1,13 +1,13 @@
 ## Oi! Eu me chamo Gislene 👋
 
-✨ Tenho 24 anos, mmoro em São Paulo - SP e estou começando minha jornada no mundo da programação.
-
-🔧 Desenvolvedora em construção | 💻 Estudante de análise e desenvolvimento de sistemas 
-
-🌱 Estou sempre em busca de aprender. Atualmente, estou focado em desenvolvimento front-end web.
-
 <div>
-  <img src = "https://github.com/user-attachments/assets/65648a5f-2e3e-4b79-a4b4-062758572d05" width = "250">
+  <img src = "https://github.com/user-attachments/assets/65648a5f-2e3e-4b79-a4b4-062758572d05" width = "125" align = "left">
+  
+  ✨ Tenho 24 anos, mmoro em São Paulo - SP e estou começando minha jornada no mundo da programação.
+
+  🔧 Desenvolvedora em construção | 💻 Estudante de análise e desenvolvimento de sistemas 
+
+  🌱 Estou sempre em busca de aprender. Atualmente, estou focado em desenvolvimento front-end web.
 </div>
 
 <div>

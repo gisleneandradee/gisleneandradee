@@ -1,4 +1,4 @@
-## Oi! Eu me chamo Gislene 👋
+<h1 align = "center">Oi! Eu me chamo Gislene 👋</h1>
 
 <div>
   <img src = "https://github.com/user-attachments/assets/65648a5f-2e3e-4b79-a4b4-062758572d05" width = "100" align = "left">

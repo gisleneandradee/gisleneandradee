@@ -1,7 +1,7 @@
 ## Oi! Eu me chamo Gislene 👋
 
 <div>
-  <img src = "https://github.com/user-attachments/assets/65648a5f-2e3e-4b79-a4b4-062758572d05" width = "125" align = "left">
+  <img src = "https://github.com/user-attachments/assets/65648a5f-2e3e-4b79-a4b4-062758572d05" width = "100" align = "left">
   
   ✨ Tenho 24 anos, moro em São Paulo - SP e estou começando minha jornada no mundo da programação.
 

@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Gislene! 👩‍💻</h1>
 
 <p align="center">
-  <img src="COLE_AQUI_UM_LINK_VÁLIDO_DA_SUA_IMAGEM" width="150" alt="Foto da Gislene" style="border-radius: 50%;">
+  <img src="octocat-1740616280832.png" width="250" alt="Foto da Gislene" style="border-radius: 50%;">
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 - 📍 São Paulo - SP  
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 - 🌱 Atualmente aprendendo **HTML**, **CSS** e **JavaScript**  
-- 💡 Interesses: Acessibilidade, UI/UX, e Tech para impacto social  
+- 💡 Cada linha de código é um pedacinho do que estou me tornando 
 - 🎯 Objetivo: Me tornar uma desenvolvedora front-end completa
 
 ---
@@ -23,10 +23,8 @@
 ### 🚀 Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50"/>
 </p>
 
 ---
@@ -43,11 +41,11 @@
 ### 📫 Conecte-se comigo
 
 <p align="center">
-  <a href="mailto:gislene.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:gislene.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gislene Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/gisleneandradee/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/gisleneandradee/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Gislene LinkedIn"/>
   </a>
 </p>
 

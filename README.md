@@ -1,6 +1,6 @@
 <h1>Olá, eu sou a Gislene!</h1>
 <p>
-✨ Desenvolvedora em construção | 💻 Estudante de ADS | 🚀 Focada em Front-End
+Desenvolvedora em construção | Estudante de ADS | Focada em Front-End
 </p>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35"/>

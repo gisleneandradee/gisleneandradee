@@ -1,18 +1,8 @@
-<h1>Olá, eu sou a Gislene! 👩‍💻</h1>
+<h1>Olá, eu sou a Gislene!</h1>
 
 <p>
 ✨ Desenvolvedora em construção | 💻 Estudante de ADS | 🚀 Focada em Front-End
 </p>
-
----
-
-### 👩‍💻 Sobre mim
-
-- 📍 São Paulo - SP  
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-- 🌱 Atualmente aprendendo **HTML**, **CSS** e **JavaScript**  
-- 💡 Cada linha de código é um pedacinho do que estou me tornando 
-- 🎯 Objetivo: Me tornar uma desenvolvedora front-end completa
 
 ---
 
@@ -21,15 +11,8 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50"/>
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=gisleneandradee&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisleneandradee&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" width="50"/>
 </p>
 
 ---

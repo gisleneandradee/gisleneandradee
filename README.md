@@ -1,6 +1,6 @@
 <h1>Oiê, eu sou a Gislene!</h1>
 <p>
-Análise e desenvolvimento de sistemas | Desenvolvedora fullstack java
+Desenvolvedora front-end e acadêmica de análise e desenvolvimento de sistemas
 </p>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35"/>

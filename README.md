@@ -1,26 +1,61 @@
-<h1>Oiê, eu sou a Gislene!</h1>
-<p>
-Desenvolvedora front-end e acadêmica de análise e desenvolvimento de sistemas
-</p>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="35"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="35"/>
+# Olá, eu sou uma desenvolvedora fullstack. 👋
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="35"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="35"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="35"/>
-</p>
+Estudante de análise e desenvolvimento de sistemas.
 
 ---
 
-<p>
-  <a href="https://www.linkedin.com/in/gisleneandradee/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Gislene LinkedIn"/>
-  </a>
-  <h3>E-mail: gislene.dev@gmail.com</h2>
-</p>
+## 🚀 Sobre Mim
+
+- 🎓 Estudante: Cursando análise e desenvolvimento de sistemas.
+- 📍 Localização: Suzano, SP.
+- 🌱 Estudando: Desenvolvimento fullstack java na Generation Brasil.
+
+---
+
+## 🛠️ Linguagens e Tecnologias
+
+<div align="center">
+
+| HTML | CSS | JavaScript | Java | React |
+|---------|---------|---------|---------|---------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width = 45 /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width = 45 /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width = 45 /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width = 45 /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width = 45 /> |
+
+</div>
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gisleneandradee&show_icons=true&theme=radical"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisleneandradee&layout=compact&theme=radical"/>
+
+</div>
+
+---
+
+## 🔥 Streak Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gisleneandradee&theme=radical" />
+
+</div>
+
+---
+
+## 📫 Contato
+
+<div>
+
+<a href="https://linkedin.com/in/gisleneandradee">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:gislene.dev@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>

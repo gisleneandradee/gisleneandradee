@@ -1,4 +1,4 @@
-# Olá, eu sou uma desenvolvedora fullstack. 👋
+# 👋 Seja Bem-vindo(a)! 👋
 
 Estudante de análise e desenvolvimento de sistemas.
 

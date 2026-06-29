@@ -36,16 +36,6 @@ Estudante de análise e desenvolvimento de sistemas.
 
 ---
 
-## 🔥 Streak Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gisleneandradee&theme=radical" />
-
-</div>
-
----
-
 ## 📫 Contato
 
 <div>

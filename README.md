@@ -4,7 +4,6 @@
 
 <p data-importer="text" align="left">🎓 Estudante: Cursando análise e desenvolvimento de sistemas.<br>📍 Localização: Suzano, SP.<br>🌱 Estudando: Desenvolvimento fullstack java na Generation Brasil.</p>
 
----
 
 <div data-importer="techs" align="left">
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
@@ -22,7 +21,6 @@
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
 </div>
 
----
 
 <div data-importer="socials" align="left">
   <a href="gislene.dev@gmail.com" target="_blank">

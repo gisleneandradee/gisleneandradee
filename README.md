@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h2 data-importer="text" align="left">👋Seja Bem-vindo(a)!</h2>
 
 <p data-importer="text" align="left">🎓 Estudante: Cursando análise e desenvolvimento de sistemas.<br>📍 Localização: Suzano, SP.<br>🌱 Estudando: Desenvolvimento fullstack java na Generation Brasil.</p>

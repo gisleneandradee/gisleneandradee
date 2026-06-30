@@ -1,51 +1,55 @@
-# 👋 Seja Bem-vindo(a)! 👋
+<br clear="both">
 
-Estudante de análise e desenvolvimento de sistemas.
+<h2 data-importer="text" align="left">Hi 👋! My name is Gislene and I'm a Desenvolvedora fullstack, from São Paulo, Brasil.</h2>
 
----
+###
 
-## 🚀 Sobre Mim
+<p data-importer="text" align="left">🎓 Estudante: Cursando análise e desenvolvimento de sistemas.<br>📍 Localização: Suzano, SP.<br>🌱 Estudando: Desenvolvimento fullstack java na Generation Brasil.</p>
 
-- 🎓 Estudante: Cursando análise e desenvolvimento de sistemas.
-- 📍 Localização: Suzano, SP.
-- 🌱 Estudando: Desenvolvimento fullstack java na Generation Brasil.
+###
 
----
-
-## 🛠️ Linguagens e Tecnologias
-
-<div align="center">
-
-| HTML | CSS | JavaScript | Java | React |
-|---------|---------|---------|---------|---------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width = 45 /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width = 45 /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width = 45 /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width = 45 /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width = 45 /> |
-
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/gisleneandradee/gisleneandradee/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/gisleneandradee/gisleneandradee/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
----
+###
 
-## 📊 Estatísticas GitHub
+<img data-importer="image" align="right" height="150" src="octocat-1740616280832.png"  />
 
-<div align="center">
+###
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gisleneandradee&show_icons=true&theme=radical"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisleneandradee&layout=compact&theme=radical"/>
-
+<div data-importer="techs" align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
 </div>
 
----
+###
 
-## 📫 Contato
-
-<div>
-
-<a href="https://linkedin.com/in/gisleneandradee">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:gislene.dev@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
+<div data-importer="socials" align="left">
+  <a href="gislene.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/gisleneandradee/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/gisleneandradee/gisleneandradee/snake-output/snake.svg" alt="Snake animation" />
+
+###

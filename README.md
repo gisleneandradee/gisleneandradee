@@ -21,6 +21,7 @@
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
 </div>
 
+---
 
 <div data-importer="socials" align="left">
   <a href="gislene.dev@gmail.com" target="_blank">

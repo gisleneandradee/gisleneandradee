@@ -1,33 +1,85 @@
-<h2 data-importer="text" align="left">👋Seja Bem-vindo(a)!</h2>
+<h1 align="center">Olá! Eu sou a Gislene 👋</h1>
 
-<p data-importer="text" align="left">🎓 Estudante: Cursando análise e desenvolvimento de sistemas.<br>📍 Localização: Suzano, SP.<br>🌱 Estudando: Desenvolvimento fullstack java na Generation Brasil.</p>
+<h3 align="center">
+Desenvolvedora Full Stack em formação • Java
+</h3>
 
-
-<div data-importer="techs" align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-</div>
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gisleneandradee&show_icons=true&theme=dracula)
+<p align="center">
+Apaixonada por tecnologia, desenvolvimento de software e aprendizado contínuo.
+Atualmente curso <strong>Análise e Desenvolvimento de Sistemas</strong> e estudo
+<strong>Desenvolvimento Full Stack Java</strong> na Generation Brasil.
+</p>
 
 ---
 
-<div data-importer="socials" align="left">
-  <a href="gislene.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/gisleneandradee/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+## 🚀 Sobre mim
+
+🎓 Cursando Análise e Desenvolvimento de Sistemas
+
+🌱 Estudando Desenvolvimento Full Stack Java na Generation Brasil
+
+📍 Suzano - SP
+
+☕ Sempre aprendendo algo novo.
+
+---
+
+## 💻 Tecnologias
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,mysql,git" />
+</p>
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gisleneandradee&show_icons=true&theme=dracula&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisleneandradee&layout=compact&theme=dracula&hide_border=true"/>
+
+</div>
+
+---
+
+## ⭐ Projetos em destaque
+
+### 💳 Sistema Bancário (Java)
+
+Projeto desenvolvido em Java utilizando Programação Orientada a Objetos, Collections e Exceptions.
+
+🔗 https://github.com/gisleneandradee/conta_bancaria
+
+---
+
+### 🎼 Site Institucional - Orquestra Jovem Cidadão
+
+Landing Page desenvolvida em HTML, CSS e JavaScript.
+
+🔗 https://gisleneandradee.github.io/Orquestra_JovemCidadao/
+
+---
+
+## 📫 Contato
+
+<p>
+
+<a href="mailto:gislene.dev@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/gisleneandradee/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+⭐ Obrigada por visitar meu perfil!
+
 </div>

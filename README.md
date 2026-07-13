@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou a Gislene 👋</h1>
+<h1 align="center">Olá, eu sou a Gislene! 👋</h1>
 
 <h3 align="center">
 Desenvolvedora Full Stack em formação • Java
@@ -14,11 +14,9 @@ Atualmente curso <strong>Análise e Desenvolvimento de Sistemas</strong> e estud
 
 ## 🚀 Sobre mim
 
-🎓 Cursando Análise e Desenvolvimento de Sistemas
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-🌱 Estudando Desenvolvimento Full Stack Java na Generation Brasil
-
-📍 Suzano - SP
+🌱 Estudando Desenvolvimento Full Stack na Generation Brasil
 
 ☕ Sempre aprendendo algo novo.
 
@@ -32,37 +30,7 @@ Atualmente curso <strong>Análise e Desenvolvimento de Sistemas</strong> e estud
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gisleneandradee&show_icons=true&theme=dracula&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisleneandradee&layout=compact&theme=dracula&hide_border=true"/>
-
-</div>
-
----
-
-## ⭐ Projetos em destaque
-
-### 💳 Sistema Bancário (Java)
-
-Projeto desenvolvido em Java utilizando Programação Orientada a Objetos, Collections e Exceptions.
-
-🔗 https://github.com/gisleneandradee/conta_bancaria
-
----
-
-### 🎼 Site Institucional - Orquestra Jovem Cidadão
-
-Landing Page desenvolvida em HTML, CSS e JavaScript.
-
-🔗 https://gisleneandradee.github.io/Orquestra_JovemCidadao/
-
----
-
-## 📫 Contato
+## 📫 Conecte-se comigo
 
 <p>
 

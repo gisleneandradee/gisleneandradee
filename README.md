@@ -19,12 +19,9 @@
         ✨ Foco em código limpo, arquitetura consistente e boa experiência de uso.<br />
         💡 Em constante evolução e aberta a novas conexões no mercado de tecnologia.
       </p>
-      <p>
-        📫 <b>Entre em contato:</b> <a href="https://www.linkedin.com/in/gisleneandradee/">LinkedIn</a>
-      </p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="octocat-1740616280832.png" alt="OctoCat" width="200" />
+      <img src="octocat-1740616280832.png" alt="octocat" width="200" />
     </td>
   </tr>
 </table>
@@ -43,4 +40,24 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
+
+<br />
+
+<!-- ESTATÍSTICAS DO GITHUB -->
+<h2>📊 Estatísticas & Desempenho</h2>
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gisleneandradee&show_icons=true&title_color=e882a0&icon_color=e882a0&text_color=555555&bg_color=ffffff&border_color=ffb6c1&hide_border=false" alt="GitHub Stats" />
+  &nbsp;
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisleneandradee&layout=compact&title_color=e882a0&text_color=555555&bg_color=ffffff&border_color=ffb6c1&hide_border=false" alt="Top Languages" />
+</div>
+
+<br />
+
+<!-- RODAPÉ -->
+<hr />
+
+<div align="center">
+  <p>✨ <i>Desenvolvido com carinho por Gislene Andrade</i> ✨</p>
 </div>
